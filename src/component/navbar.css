@@ -1,0 +1,31 @@
+li{
+    list-style-type: none;
+    cursor: pointer;
+    background-color: rgb(12, 35, 134);
+    padding: 10px;
+    color: white;
+}
+.navbar{
+    height: 40px;
+    background-color: rgb(32, 32, 32);
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar h1{
+    color: white;
+}
+
+ul{
+    display: flex;
+    color: white;
+    align-items: center;
+   
+    width: 300px;
+    justify-content: space-evenly;
+}
+.nextLink{
+    text-decoration: none;
+}
